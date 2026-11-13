@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.build/
+build/
+dist/
+Windows版/
+wheelhouse/
+*.elab
+.env
+.env.*
+*.pem
+*.key
